@@ -8,6 +8,10 @@ This dataset consists of diagnostic and lung cancer screening thoracic CT scans 
 
 ## For Densenet121
 
+Test Loss: 0.11375235766172409
+
+Test Accuracy: 0.9491525292396545
+
 ### Confusion Matrix
 
 ![eed2519d-482e-4e83-8d2d-aac23f0464cd](https://github.com/user-attachments/assets/0759a4bb-acaf-4653-9600-772a8a82be15)
@@ -21,6 +25,10 @@ This dataset consists of diagnostic and lung cancer screening thoracic CT scans 
 ![31af7817-79a9-491a-a83f-cc021ffd4f0b](https://github.com/user-attachments/assets/d25bba32-2fd4-4a9f-8829-4902053dac33)
 
 ## For MobileNetv2
+
+Test Loss: 0.28500422835350037
+
+Test Accuracy: 0.9200968742370605
 
 ### Confusion Matrix
 
