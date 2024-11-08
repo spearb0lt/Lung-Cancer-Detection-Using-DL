@@ -8,6 +8,8 @@ This dataset consists of diagnostic and lung cancer screening thoracic CT scans 
 
 ## For Densenet121
 
+![Screenshot 2024-11-09 043804](https://github.com/user-attachments/assets/f3aa5421-9bac-4519-9d78-0b35cc4ae35c)
+
 Test Loss: 0.11375235766172409
 
 Test Accuracy: 0.9491525292396545
@@ -25,6 +27,8 @@ Test Accuracy: 0.9491525292396545
 ![31af7817-79a9-491a-a83f-cc021ffd4f0b](https://github.com/user-attachments/assets/d25bba32-2fd4-4a9f-8829-4902053dac33)
 
 ## For MobileNetv2
+
+![Screenshot 2024-11-09 043904](https://github.com/user-attachments/assets/04f4b9e7-055c-4f22-bab4-9d15510819e9)
 
 Test Loss: 0.28500422835350037
 
