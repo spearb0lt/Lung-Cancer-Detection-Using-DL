@@ -8,6 +8,12 @@ The dataset comprises CT scans of patients at various stages of lung cancer and 
 
 ## For Densenet121
 
+![Screenshot 2024-11-09 044155](https://github.com/user-attachments/assets/ee87807e-2f7c-414f-999a-e11755bac3a4)
+
+Test Loss: 0.03285326808691025
+
+Test Accuracy: 0.9954545497894287
+
 ### Confusion Matrix
 
 ![f89598ae-09b4-4abc-9c12-18ed119d1596](https://github.com/user-attachments/assets/ec3c5b8a-0259-4aec-ac1e-5971bcc96b2d)
@@ -21,6 +27,12 @@ The dataset comprises CT scans of patients at various stages of lung cancer and 
 ![4e0e7d81-5238-4640-aed4-93af842cc040](https://github.com/user-attachments/assets/c2326855-03b9-4332-853a-476b34eff4cf)
 
 ## For MobileNetv2
+
+![Screenshot 2024-11-09 044304](https://github.com/user-attachments/assets/58cd7a16-42c2-4658-b2aa-2f3be4ddb463)
+
+Test Loss: 0.06389608979225159
+
+Test Accuracy: 0.9863636493682861
 
 ### Confusion Matrix
 
