@@ -8,6 +8,12 @@ This dataset consists of 25,000 histopathological images, divided into five dist
 
 ## For DenseNet121
 
+![Screenshot 2024-11-09 043633](https://github.com/user-attachments/assets/4f1d45a4-ecb9-4ad4-925e-b34cc6163a41)
+
+Test Loss: 0.2601519525051117
+
+Test Accuracy: 0.9673333168029785
+
 ### Confusion Matrix
 
 ![6c7a7342-0362-4b1a-8bcc-50bf9fd33615](https://github.com/user-attachments/assets/4a2e1524-39f7-4a37-bb86-1445939f1f58)
@@ -21,6 +27,12 @@ This dataset consists of 25,000 histopathological images, divided into five dist
 ![95b36237-e8ea-42bf-b826-7a8532e93581](https://github.com/user-attachments/assets/2aa08229-a623-43f8-95d9-c3c9499d1f98)
 
 ## For MobileNetv2
+
+![Screenshot 2024-11-09 043525](https://github.com/user-attachments/assets/8d39ec40-0dab-4dc0-a19a-8ff6bcc68ce5)
+
+Test Loss: 0.1851891279220581
+
+Test Accuracy: 0.968666672706604
 
 ### Confusion Matrix
 
