@@ -1,6 +1,6 @@
 # LIDC-IDRI
 
-This dataset consists of diagnostic and lung cancer screening thoracic CT scans with marked-up annotated lesions. It is a web-accessible international resource for development, training, and evaluation of CAD methods for lung cancer detection and diagnosis.
+This dataset consists of diagnostic and lung cancer screening thoracic CT scans with marked-up annotated lesions. It is a web-accessible international resource for development, training, and evaluation of CAD methods for lung cancer detection and diagnosis.The dataset consists of 2066 images distributed across a train set of 1323 images, a test set of 413 images and a validation set of 330 images. Each set further has data distributed across 3 subclasses viz., benign and malignant. This dataset comprises diagnostic and lung cancer screening thoracic CT scans with annotated lesions.
 
 ![image](https://github.com/user-attachments/assets/48ddae7c-8310-40f2-b57f-ca9fa84d2c94)
 
