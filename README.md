@@ -1,4 +1,4 @@
-Sample images from IQ-OTH/NCCD, LC25000 and LIDC-IDRI datasets, diagnosed as either lung cancer or healthy.
+Sample images from datasets, diagnosed as either lung cancer or healthy.
 
 ![image](https://github.com/user-attachments/assets/ba384f60-3329-4eb5-9fb0-4901aac36e97)
 
