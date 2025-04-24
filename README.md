@@ -1,3 +1,25 @@
+ This repository contains code and resources that were utilized in the following paper:
+
+
+
+> ***Lung Cancer Identification from CT Scans using a Soft-attention enabled Deep Transfer Learning Model***\
+> *S. Dev, P. S. Roy, N. Chakraborty and R. Sarkar*\
+> Published in: IEEE ISACC 2025\
+> Paper: https://doi.org/10.1109/ISACC65211.2025.10969319
+
+
+If you use this code or find it helpful, please consider citing the paper.
+```bibtex
+@inproceedings{10969319,
+  author    = {S. Dev, P. S. Roy, N. Chakraborty and R. Sarkar},
+  title     = {Lung Cancer Identification from CT Scans using a Soft-attention enabled Deep Transfer Learning Model},
+  booktitle = {2025 3rd International Conference on Intelligent Systems, Advanced Computing and Communication (ISACC)},
+  pages     = {254-259},
+  year      = {2025},
+  doi       = {10.1109/ISACC65211.2025.10969319}
+}
+```
+----------------
 Sample images from datasets, diagnosed as either lung cancer or healthy.
 
 ![image](https://github.com/user-attachments/assets/ba384f60-3329-4eb5-9fb0-4901aac36e97)
@@ -115,11 +137,6 @@ Test Accuracy: 0.9863636493682861
 ![4ad23f52-b902-4ba4-9f83-a3834fe0cd37](https://github.com/user-attachments/assets/37ef3333-7916-491a-b2b4-85f0e87224df)
 
 
-### You Can View My Notebook Below
-
-https://docs.google.com/viewer?url=https://github.com/user-attachments/files/17684651/IQOTH-main.pdf
-
-
 ## For LC25000
 
 ### For DenseNet121
@@ -164,11 +181,6 @@ Test Accuracy: 0.968666672706604
 ![15d0027c-c414-4901-bab9-6b68a7c13648](https://github.com/user-attachments/assets/612b5103-ca6b-4113-be9d-efc4e0018ea4)
 
 
-### You Can View My Notebook Below
-
-https://docs.google.com/viewer?url=https://github.com/user-attachments/files/17684858/LC25000-main.pdf
-
-
 ## For LIDC
 
 ### For Densenet121
@@ -211,8 +223,4 @@ Test Accuracy: 0.9200968742370605
 
 ![794bfe62-e017-478a-8a2b-31ab50f9de05](https://github.com/user-attachments/assets/63d52fd5-697a-47c4-a0fa-70cca41c0cf7)
 
-
-### You Can View My Notebook Below
-
-https://docs.google.com/viewer?url=https://github.com/user-attachments/files/17684884/LIDC-main.pdf
 
