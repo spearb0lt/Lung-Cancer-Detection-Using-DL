@@ -19,7 +19,11 @@ If you use this code or find it helpful, please consider citing the paper.
   doi       = {10.1109/ISACC65211.2025.10969319}
 }
 ```
+You can download the paper here as well [IEEE ISACC 2025 10969319](https://github.com/user-attachments/files/19899861/IEEE.ISACC.2025.Lung_Cancer_Identification_from_CT_Scans_using_a_Soft-attention_enabled_Deep_Transfer_Learning_Model.pdf)
+
+<!-- [This content will not appear in the rendered Markdown](https://docs.google.com/viewer?url= ) -->
 ----------------
+
 Sample images from datasets, diagnosed as either lung cancer or healthy.
 
 ![image](https://github.com/user-attachments/assets/ba384f60-3329-4eb5-9fb0-4901aac36e97)
